@@ -1,5 +1,5 @@
 # mi-cv-futuro
-Una visión alterna de como imagino mi futuro laboral y mi currículum en 10 años
+Una visión alterna de como imagino mi futuro laboral y mi currículum en 10 años. Este proyecto es un currículum hecho solo con HTML. Incluye datos ficticios sobre mi experiencia, habilidades, logros y trayectoria profesional.
 
 <!DOCTYPE html>
 <html lang="es">
